@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This repository hosts the source code for the Ask Developer app to booking an programming teacher.<br>
+This repository hosts the source code for the Ask Developer app for booking a programming teacher.<br>
 
 
 ### Technical Stack
