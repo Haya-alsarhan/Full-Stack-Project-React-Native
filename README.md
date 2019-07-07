@@ -2,9 +2,7 @@
 
 ### Introduction
 
-Ask Developer is app to booking an programming teacher.
-
-This repository hosts the source code for the Ask Developer app.<br>
+This repository hosts the source code for the Ask Developer app to booking an programming teacher.<br>
 
 
 ### Technical Stack
