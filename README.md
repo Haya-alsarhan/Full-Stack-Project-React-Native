@@ -6,7 +6,6 @@ This repository hosts the source code for the Ask Developer app for booking a pr
 
 
 ### Technical Stack
-* Javascript
-* Java
+* React
 * Redux
 
